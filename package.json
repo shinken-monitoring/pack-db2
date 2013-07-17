@@ -3,13 +3,13 @@
 	"types": ["pack"],
 	"version": "1.4",
 	"homepage": "https://github.com/shinken-monitoring/pack-db2",
-	"author": "Jean Gabes",
+	"author": "Forlot Romain",
 	"description": "Db2 database checks, like connected users, locks or tablespace usage",
 	"contributors": [
-	  {
-		"name": "Jean Gabes",
-		"email": "naparuba@gmail.com"
-	  },
+          {
+                "name": "Forlot Romain",
+                "email": "rforlot@yahoo.com"
+          },
 	  {
 		"name": "Imrane Dessai",
 		"email": "dessai.imrane@gmail.com"
@@ -18,6 +18,8 @@
 	"repository": "https://github.com/shinken-monitoring/pack-db2",
 	"keywords": [
 	  "pack",
+	  "database",
+	  "db2"
 	  
 	],
 	"dependencies": {
